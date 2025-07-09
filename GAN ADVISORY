@@ -1,0 +1,32 @@
+a) Discuss the advantages of SSDs over other object detection methods
+such as YOLO and Faster R-CNNs for real-time applications.
+
+CO5 (07)
+
+b) Design a Generative Adversarial Network (GAN) architecture for
+generating realistic images of handwritten digits. Specify the generator
+and discriminator networks, including their layer configurations,
+activation functions, and loss functions.
+
+CO5 (06)
+
+c) Outline the architecture and training procedure of the Wasserstein GAN
+(WGAN) and compare its performance with traditional GANs.
+
+CO5 (07)
+
+10. a) Differentiate between YOLO (You Only Look Once) and other object
+detection methods like Faster R-CNN in terms of speed and accuracy.
+
+CO5 (07)
+
+b) Investigate the role of sparsity in sparse autoencoders and discuss how
+it contributes to feature learning and dimensionality reduction compared
+to traditional autoencoders.
+
+CO5 (06)
+
+c) How does a Generative Adversarial Network (GAN) differ from traditional
+discriminative models in terms of their approach to learning?
+
+CO5 (07)
